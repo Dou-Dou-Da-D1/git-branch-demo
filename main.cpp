@@ -1,1 +1,1 @@
-int main() { return 0; # 一行注释}
+int main() { return 0; }
