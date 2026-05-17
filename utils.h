@@ -1,0 +1,1 @@
+#define B3_VALUE 2.0
